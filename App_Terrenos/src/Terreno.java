@@ -1,4 +1,5 @@
 public class Terreno{
+    
     public double alto, ancho, vmc, area, costoFinal;
     public Terreno(double alto, double ancho, double vmc) {
         this.alto = alto;
