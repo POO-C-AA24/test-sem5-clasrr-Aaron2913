@@ -7,6 +7,6 @@
  *
  * @author utpl
  */
-public class Terreno {
+public class TestTerreno {
     
 }
